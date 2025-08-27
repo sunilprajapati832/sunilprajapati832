@@ -80,7 +80,7 @@ Dive into my recent project repository where I document daily progress, challeng
       <img src="https://github-readme-stats.vercel.app/api?username=sunilprajapati832&show_icons=true&theme=chartreuse-dark" width="350"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunilprajapati832&layout=compact&theme=chartreuse-dark" width="350" height="145"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunilprajapati832&layout=compact&theme=chartreuse-dark" width="550" height="145"/>
     </td>
   </tr>
   <tr>
