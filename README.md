@@ -93,9 +93,10 @@ Dive into my recent project repository where I document daily progress, challeng
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sunilprajapati832&theme=gruvbox&no-frame=true&margin-w=10"" width="700"/>
-</p>
+![GitHub Followers](https://img.shields.io/github/followers/sunilprajapati832?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/sunilprajapati832?style=social)
+![GitHub Commits](https://img.shields.io/github/commit-activity/y/sunilprajapati832/NetflixPrimeDashboard)
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Top%20Language-Python-blueviolet?style=flat-square&logo=python&logoColor=white" />
