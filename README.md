@@ -49,8 +49,7 @@ Dive into my recent project repository where I document daily progress, challeng
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white)
 ![MS Copilot](https://img.shields.io/badge/MS%20Copilot-000000?style=flat-square&logo=microsoft&logoColor=white)
-![Taleau]([https://img.shields.io/badge/MS%20Copilot-000000?style=flat-square&logo=microsoft&logoColor=white](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white
-))
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
 
 
 ---
