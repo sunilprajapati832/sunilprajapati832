@@ -94,9 +94,11 @@ Dive into my recent project repository where I document daily progress, challeng
 </table>
 
 <p align="center">
+  
 ![GitHub Followers](https://img.shields.io/github/followers/sunilprajapati832?style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/sunilprajapati832?style=social)
 ![GitHub Commits](https://img.shields.io/github/commit-activity/y/sunilprajapati832/NetflixPrimeDashboard)
+
 </p>
 
 <p align="center">
