@@ -94,7 +94,7 @@ Dive into my recent project repository where I document daily progress, challeng
 </table>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sunilprajapati832&theme=gruvbox&no-frame=true&margin-w=10" width="700"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sunilprajapati832&theme=gruvbox&no-frame=true&margin-w=10"" width="700"/>
 </p>
 
 <p align="center">
