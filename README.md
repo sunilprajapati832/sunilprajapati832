@@ -93,12 +93,9 @@ Dive into my recent project repository where I document daily progress, challeng
   </tr>
 </table>
 
-
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sunilprajapati832&theme=gruvbox&no-frame=true&margin-w=10" width="100%" />
-</div>
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sunilprajapati832&theme=gruvbox&no-frame=true&margin-w=10"" width="700"/>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Top%20Language-Python-blueviolet?style=flat-square&logo=python&logoColor=white" />
