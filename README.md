@@ -88,7 +88,7 @@ Dive into my recent project repository where I document daily progress, challeng
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=sunilprajapati832&theme=gruvbox&hide_border=true" width="350"/>
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sunilprajapati832&theme=solarized_dark" width="300"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sunilprajapati832&theme=solarized_dark" width="350"/>
     </td>
   </tr>
 </table>
