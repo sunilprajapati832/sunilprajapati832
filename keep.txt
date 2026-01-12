@@ -1,0 +1,44 @@
+<!-- Power BI Inspired GitHub Stats Dashboard -->
+<h2 align="center">📊 Power BI Style GitHub Dashboard</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Commits-✔️%201,234-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Repositories-22-green?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Followers-150-orange?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Stars-320-yellow?style=for-the-badge&logo=star" />
+</p>
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=sunilprajapati832&show_icons=true&theme=chartreuse-dark" width="350"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunilprajapati832&layout=compact&theme=chartreuse-dark" width="350" height="145"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=sunilprajapati832&theme=gruvbox&hide_border=true" width="350"/>
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sunilprajapati832&theme=solarized_dark" width="350"/>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://img.shields.io/github/followers/sunilprajapati832?style=social" />
+  <img src="https://img.shields.io/github/stars/sunilprajapati832?style=social" />
+  <img src="https://img.shields.io/github/commit-activity/y/sunilprajapati832/NetflixPrimeDashboard" />
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Top%20Language-Python-blueviolet?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Analytics-Power%20BI-yellow?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-In%20Progress-brightgreen?style=flat-square&logo=scikit-learn" />
+</p>
+
+<p align="center">
+  <i>Inspired by Power BI dashboards • Made by Sunil Prajapati</i>
+</p>
