@@ -1,5 +1,6 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:8BC6EC,100:9599E2&height=180&section=header&text=Sunil%20Prajapati&fontSize=40&fontAlignY=35&desc=Researcher%20%7C%20Data%20Scientist%20%7C%20MBM%20University&descSize=20&descAlignY=60)
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8BC6EC,100:9599E2&height=180&section=header&text=Sunil%20Prajapati&fontSize=40&fontAlignY=35&desc=Researcher%20%7C%20Data%20Scientist%20%7C%20MBM%20University&descSize=20&descAlignY=60" alt="banner"/>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sunil-prajapati832"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
